@@ -68,7 +68,7 @@ input {
 }
 span {
   position: absolute;
-  left: 480px;
+  left: (300vw)/4;
   top: -3px;
 }
 .checked {
